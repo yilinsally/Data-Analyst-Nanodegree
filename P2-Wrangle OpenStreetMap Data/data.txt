@@ -1,0 +1,8 @@
+Map Area
+Toronto, Canada
+
+I moved to Toronto after I graduated, so I want to investigate the user contributions to this area in the open street map and city amenities. 
+
+
+The link of the dataset:
+https://www.openstreetmap.org/export#map=11/43.7183/-79.3767
